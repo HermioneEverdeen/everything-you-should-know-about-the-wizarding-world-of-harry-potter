@@ -5,17 +5,13 @@
 <li><a href="#hogwarts-houses">What are the 4 Hogwarts Houses?</a></li>
 <li><a href="#main-characters">Main Characters</a></li>
 </ul>
-<style>
-  body{background-color: grey;}
-  #Gryffindors{background-color: magneta;}
-</style>
 </head>
 <body>
 <center><h1 id="hogwarts-houses">What are the 4 Hogwarts Houses?</h1></center>
 <center><p>There are 4 Hogwarts Houses: Gryffindor, Hufflepuff, Ravenclaw, and Slytherin.</p> </center>
 <center><img src="https://vignette.wikia.nocookie.net/harrypotter/images/f/f2/Gryffindor™_Crest.png/revision/latest?cb=20091129182119" alt="Gryffindor Crest"/> </center>
 <center> <h2>Gryffindors</h2> </center>
-<center> <blockquote id="Gryffindors">"You might belong in Gryffindor, <br>Where dwell the brave at heart,<br>Their daring, nerve, and chivalry <br> Set Gryffindors apart." <br> <i> - Hogwarts Sorting Hat </i> </blockquote> </center>
+<center> <blockquote>"You might belong in Gryffindor, <br>Where dwell the brave at heart,<br>Their daring, nerve, and chivalry <br> Set Gryffindors apart." <br> <i> - Hogwarts Sorting Hat </i> </blockquote> </center>
 <hr />
 <center><img src="https://vignette.wikia.nocookie.net/csydes-test/images/e/ee/Hufflepuff_Crest.png/revision/latest?cb=20171101063214" alt="Hufflepuff Crest"/> <h2>Hufflepuffs</h2> </center>
 <center><p>To be chosen as a Hufflepuff, you must be: </p>
