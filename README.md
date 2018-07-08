@@ -6,6 +6,7 @@
 <li><a href="#main-characters">Main Characters</a></li>
 </ul>
 <style>
+  body{background-color: grey;}
   #Gryffindors{background-color: magneta;}
 </style>
 </head>
