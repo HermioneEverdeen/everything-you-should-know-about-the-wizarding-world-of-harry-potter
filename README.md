@@ -24,10 +24,7 @@
 <hr />
 <center> <img src="https://vignette.wikia.nocookie.net/harrypotter/images/6/6c/Ravenclaw™_Crest_%28Painting%29.png/revision/latest?cb=20091129184403" alt="Ravenclaw Crest"/> <h2> Ravenclaws</h2> </center>
 <center><p>Qualities of a Ravenclaw:</p> </center>
-<center><p>Wise.</p>
-<p>Sharp mind.</p>
-<p>Wit and Learning.</p>
-<p>Fair, Clever, and Intelligent.</p> </center>
+<center><p>Wise.<br>Sharp mind.<br>Wit and Learning.<br>Fair, Clever, and Intelligent.</p> </center>
 <hr />
 <center><img src="https://vignette.wikia.nocookie.net/csydes-test/images/4/45/Slytherin_Crest.png/revision/latest?cb=20171101063219"/></center> <center><h2>Slytherins</h2> </center>
 <center><p>"Shrewd Slytherin, from fen..."</p><p>"...And power-hungry Slytherin Loved those of great ambition..."</p><p>"...For instance, Slytherin took only pure-blood wizards Of great cunning, just like him..."</p><p><i>- Hogwarts Sorting Hat</i></p></center>
