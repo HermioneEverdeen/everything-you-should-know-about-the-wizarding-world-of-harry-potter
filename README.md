@@ -39,6 +39,6 @@
 <hr />
 <img src="https://78.media.tumblr.com/b75b649c5cdabbacab86ec2b4c0d9375/tumblr_ombnplQGsN1rxkqbso1_500.png" width="300" height="390"/><p>Ronald Bilius Weasley is a red-haired and freckled wizard. He lives with 5 brothers (and one sister) and is the youngest brother out of all of them.</p>
 <hr />
-  <img src="https://vignette.wikia.nocookie.net/harrypotterwiki2/images/7/74/Vernon_Dursley.png/revision/latest?cb=20110312120644"/><p>Vernon Dursley was a big, beefy man with hardly any neck, although he did have a very large mustache. Vernon was the director of a firm called Grunnings, which made drills.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotterwiki2/images/7/74/Vernon_Dursley.png/revision/latest?cb=20110312120644"/ width="300" height="390"><p>Vernon Dursley was a big, beefy man with hardly any neck, although he did have a very large mustache. Vernon was the director of a firm called Grunnings, which made drills.</p>
 </body>
 </html>
