@@ -55,7 +55,7 @@
 <hr />
   <img src="https://vignette.wikia.nocookie.net/harrypotterfanon/images/5/53/Minerva_McGonagall.png/revision/latest?cb=20130323142645" width="464" height="500"><p>Minerva McGonagall is a Professor at Hogwarts. She teaches Transfiguration. She is a rather severe-looking woman who wears square glasses, and her black hair is always drawn into a tight bun.</p>
 <hr />  
-  <img src="https://demarillac.org/wp-content/uploads/2016/08/male.jpg" width="203" height="564"><p>Dedalus Diggle is a little man in a top hat.</p>
+  <img src="https://demarillac.org/wp-content/uploads/2016/08/male.jpg"><p>Dedalus Diggle is a little man in a top hat.</p>
 <hr />  
   <img src="https://vignette.wikia.nocookie.net/harrypotter/images/5/56/Madam_Pomfrey.png/revision/latest?cb=20131110073338"><p>Poppy Pomfrey is the nurse at Hogwarts. She is a very nice woman, but strict.</p>
 <hr />  
