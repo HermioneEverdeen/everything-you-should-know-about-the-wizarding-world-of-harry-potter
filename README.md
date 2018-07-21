@@ -53,33 +53,31 @@
 <hr />
   <img src="https://vignette.wikia.nocookie.net/harrypotter/images/4/40/Albus_Dumbledore_%28HBP_promo%29_3.jpg/revision/latest/scale-to-width-down/700?cb=20150822232849"><p>Albus Percival Wulfric Brian Dumbledore is a tall, thin, and very old man, judging by the silver of his hair and beard, which were both long enough to tuck into his belt. His eyes are light, bright, and sparkling behind half-moon spectacles and his nose is very long and crooked, as though it had been broken many times.</p>
 <hr />
-  <img src=""><p>Minerva McGonagall is a Professor at Hogwarts. She teaches Transfiguration. She is a rather severe-looking woman who wears square glasses, and her black hair is always drawn into a tight bun.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotterfanon/images/5/53/Minerva_McGonagall.png/revision/latest?cb=20130323142645"><p>Minerva McGonagall is a Professor at Hogwarts. She teaches Transfiguration. She is a rather severe-looking woman who wears square glasses, and her black hair is always drawn into a tight bun.</p>
 <hr />  
-  <img src=""><p>Dedalus Diggle is a little man in a top hat.</p>
+  <img src="https://vignette.wikia.nocookie.net/non-aliencreatures/images/1/1b/Dedalus_Diggle.png/revision/latest?cb=20170309185156"><p>Dedalus Diggle is a little man in a top hat.</p>
 <hr />  
-  <img src=""><p></p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/5/56/Madam_Pomfrey.png/revision/latest?cb=20131110073338"><p>Poppy Pomfrey is the nurse at Hogwarts. She is a very nice woman, but strict.</p>
 <hr />  
-  <img src=""><p></p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/8/80/Lily%26James_Potter.png/revision/latest?cb=20180305185644"><p>Lily Potter (left) was a very pretty woman. She has dark red hair, and bright green eyes. She is the mother of Harry Potter. James Potter (right) is Harry Potter's father. He was a tall, thin, black-haired man who wore glasses and his hair was very untidy.</p>
 <hr />  
-  <img src=""><p></p>
+  <img src=""><p>Rubeus Hagrid is the Keeper of Keys and Grounds at Hogwarts. His mom was a giant and his dad was a human. This makes Hagrid half-giant. he has a long, shaggy mane of hair and a wild, tangled beard, with black beetle eyes.</p>
 <hr />  
-  <img src=""><p></p>
+  <img src=""><p>Sirius Black is an Animangus. He can turn into a black-haired dog, which can be mistaken as a Grim. He has long black hair and very yellow teeth. He is Harry Potter's godfather.</p>
 <hr />  
-  <img src=""><p></p>
+  <img src=""><p>Marjorie (Marge) Dudley is Vernon's sister. She resembles Vernon a lot. She is large, beefy, and purple faced. She even has a mustache. She owns an old and evil-tempered bulldog, who likes to chase Harry up trees.</p>
 <hr />  
-  <img src=""><p></p>
+  <img src=""><p>Arabella Doreen Figg is Harry's neighbor. She is a Squib. She usually babysits Harry on Dudley's birthdays.</p>
 <hr />  
-  <img src=""><p></p>
+  <img src=""><p>Yvonne is Petunia's friend.</p>
 <hr />  
-  <img src=""><p></p>
+  <img src=""><p>Piers Polkiss was a scrawny boy with a face like a rat. He is Dudley's friend.</p>
 <hr />  
-  <img src=""><p></p>
+  <img src=""><p>Dennis, Malcolm, and Gordon are all big and stupid. They are also Dudley's friends.</p>
 <hr />  
-  <img src=""><p></p>
+  <img src=""><p>Cornelius Oswald Fudge was one of the Ministers of Magic. He has rumpled gray hair and an anxious expression, and wear a strange mixture of clothes: a pinstriped suit, a scarlet tie, a long black coat, and pointed purple boots.</p>
 <hr />  
-  <img src=""><p></p>
-<hr />  
-  <img src=""><p></p>
+  <img src=""><p>Tom is the bartender at the Leaky Cauldron. He is quite bald and looks like a toothless walnut.</p>
 <hr />
 </body>
 </html>
