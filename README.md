@@ -45,7 +45,7 @@
 <hr />
   <img src="https://vignette.wikia.nocookie.net/potter-encyclopaedia/images/3/37/Dudley.png/revision/latest?cb=20131031005808"><p>Dudley Dursley had a large pink face, not much neck, small, watery blue eyes and thick blonde hair that lay smoothly on his thick, fat head.</p>
 <hr />
-  <img src="https://4.bp.blogspot.com/-Lmked0j6A60/V1a3TmI-wcI/AAAAAAAAGes/vlIQWMv22RAjVS2dAiFITmUkGJCJ5az_wCLcB/s1600/Harry%2BPotter%2BLord%2BVoldemort%25C2%25B2.png"><p>Tom Marvolo Riddle is not an innocent little school boy. As Harry learns in Book 2 Of the Harry Potter Series, Tom <em>is</em> Lord Voldemort, more commonly known as "You-Know-Who." At the age of 16, Tom was a tall, black-haired boy. When he grew older, however, Tom changed into a man, whiter than a skull, with wide, livid scarlet eyes, and a nose that was flat as a snake's, with slits for nostrils.</p>
+  <img src="https://4.bp.blogspot.com/-Lmked0j6A60/V1a3TmI-wcI/AAAAAAAAGes/vlIQWMv22RAjVS2dAiFITmUkGJCJ5az_wCLcB/s1600/Harry%2BPotter%2BLord%2BVoldemort%25C2%25B2.png" width="1118" height="924"><p>Tom Marvolo Riddle is not an innocent little school boy. As Harry learns in Book 2 Of the Harry Potter Series, Tom <em>is</em> Lord Voldemort, more commonly known as "You-Know-Who." At the age of 16, Tom was a tall, black-haired boy. When he grew older, however, Tom changed into a man, whiter than a skull, with wide, livid scarlet eyes, and a nose that was flat as a snake's, with slits for nostrils.</p>
 <hr />
    <img src="https://demarillac.org/wp-content/uploads/2016/08/male.jpg"><p>Jim MucGuffin is a weatherman on the Muggle News.</p>
 <hr />
