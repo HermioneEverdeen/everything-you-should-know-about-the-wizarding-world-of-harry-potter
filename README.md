@@ -41,7 +41,7 @@
 <hr />
   <img src="https://vignette.wikia.nocookie.net/harrypotterwiki2/images/7/74/Vernon_Dursley.png/revision/latest?cb=20110312120644"/ width="300" height="390"><p>Vernon Dursley was a big, beefy man with hardly any neck, although he did have a very large mustache. Vernon was the director of a firm called Grunnings, which made drills.</p>
 <hr />
-  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/5/56/Petunia_Dursley.jpg/revision/latest?cb=20150903130505&path-prefix=ru"><p>Petunia Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent much of her time craning over garden fences, spying on the neighbors.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/5/56/Petunia_Dursley.jpg/revision/latest?cb=20141122220130"><p>Petunia Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent much of her time craning over garden fences, spying on the neighbors.</p>
 <hr />
   <img src="https://vignette.wikia.nocookie.net/potter-encyclopaedia/images/3/37/Dudley.png/revision/latest?cb=20131031005808"><p>Dudley Dursley had a large pink face, not much neck, small, watery blue eyes and thick blonde hair that lay smoothly on his thick, fat head.</p>
 <hr />
