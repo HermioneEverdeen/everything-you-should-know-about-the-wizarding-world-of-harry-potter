@@ -51,7 +51,7 @@
 <hr />
   <img src="https://demarillac.org/wp-content/uploads/2016/08/male.jpg"><p>Ted is also a weatherman on the Muggle News.</p>
 <hr />
-  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/4/40/Albus_Dumbledore_%28HBP_promo%29_3.jpg/revision/latest/scale-to-width-down/700?cb=20150822232849"><p>Albus Percival Wulfric Brian Dumbledore is a tall, thin, and very old man, judging by the silver of his hair and beard, which were both long enough to tuck into his belt. His eyes are light, bright, and sparkling behind half-moon spectacles and his nose is very long and crooked, as though it had been broken many times.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/4/40/Albus_Dumbledore_%28HBP_promo%29_3.jpg/revision/latest/scale-to-width-down/700?cb=20150822232849" width="600" height="779"><p>Albus Percival Wulfric Brian Dumbledore is a tall, thin, and very old man, judging by the silver of his hair and beard, which were both long enough to tuck into his belt. His eyes are light, bright, and sparkling behind half-moon spectacles and his nose is very long and crooked, as though it had been broken many times.</p>
 <hr />
   <img src="https://vignette.wikia.nocookie.net/harrypotterfanon/images/5/53/Minerva_McGonagall.png/revision/latest?cb=20130323142645"><p>Minerva McGonagall is a Professor at Hogwarts. She teaches Transfiguration. She is a rather severe-looking woman who wears square glasses, and her black hair is always drawn into a tight bun.</p>
 <hr />  
