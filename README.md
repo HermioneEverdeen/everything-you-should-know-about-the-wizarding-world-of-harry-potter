@@ -75,7 +75,7 @@
 <hr />  
   <img src="https://vignette.wikia.nocookie.net/harrypotter/images/5/52/Cornelius_fudge_hppoa.jpg/revision/latest?cb=20091022011436"><p>Cornelius Oswald Fudge was one of the Ministers of Magic. He has rumpled gray hair and an anxious expression, and wear a strange mixture of clothes: a pinstriped suit, a scarlet tie, a long black coat, and pointed purple boots.</p>
 <hr />  
-  <img src=""><p>Tom is the bartender at the Leaky Cauldron. He is quite bald and looks like a toothless walnut.</p>
+  <img src="https://hips.hearstapps.com/sev.h-cdn.co/assets/17/06/980x490/landscape-1486411091-harry-potter-tom-leaky-cauldron.jpg?resize=7680:*"><p>Tom is the bartender at the Leaky Cauldron. He is quite bald and looks like a toothless walnut. The producers of the Harry Potter movies switched the actors for this character, so there are two different ones.</p>
 <hr />
 </body>
 </html>
