@@ -63,7 +63,7 @@
 <hr />  
   <img src="https://vignette.wikia.nocookie.net/vsbattles/images/6/68/L_hagrid01_caph_hpe3.png/revision/latest?cb=20180110201558"><p>Rubeus Hagrid is the Keeper of Keys and Grounds at Hogwarts. His mom was a giant and his dad was a human. This makes Hagrid half-giant. he has a long, shaggy mane of hair and a wild, tangled beard, with black beetle eyes.</p>
 <hr />  
-  <img src=""><p>Sirius Black is an Animangus. He can turn into a black-haired dog, which can be mistaken as a Grim. He has long black hair and very yellow teeth. He is Harry Potter's godfather.</p>
+  <img src="https://3.bp.blogspot.com/ y1Aai89B5_o/VwXWSVawzSI/AAAAAAAAA9Q/iaNd09WxYrY5u4Q_yLGvtSEwPziy_6qpQ/s1600/Sirius%2BBlack.png"><p>Sirius Black is an Animangus. He can turn into a black-haired dog, which can be mistaken as a Grim. He has long black hair and very yellow teeth. He is Harry Potter's godfather.</p>
 <hr />  
   <img src=""><p>Marjorie (Marge) Dudley is Vernon's sister. She resembles Vernon a lot. She is large, beefy, and purple faced. She even has a mustache. She owns an old and evil-tempered bulldog, who likes to chase Harry up trees.</p>
 <hr />  
