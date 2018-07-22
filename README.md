@@ -61,7 +61,7 @@
 <hr />  
   <img src="https://vignette.wikia.nocookie.net/harrypotter/images/8/80/Lily%26James_Potter.png/revision/latest?cb=20180305185644"><p>Lily Potter (left) was a very pretty woman. She has dark red hair, and bright green eyes. She is the mother of Harry Potter. James Potter (right) is Harry Potter's father. He was a tall, thin, black-haired man who wore glasses and his hair was very untidy.</p>
 <hr />  
-  <img src=""><p>Rubeus Hagrid is the Keeper of Keys and Grounds at Hogwarts. His mom was a giant and his dad was a human. This makes Hagrid half-giant. he has a long, shaggy mane of hair and a wild, tangled beard, with black beetle eyes.</p>
+  <img src="https://vignette.wikia.nocookie.net/vsbattles/images/6/68/L_hagrid01_caph_hpe3.png/revision/latest?cb=20180110201558"><p>Rubeus Hagrid is the Keeper of Keys and Grounds at Hogwarts. His mom was a giant and his dad was a human. This makes Hagrid half-giant. he has a long, shaggy mane of hair and a wild, tangled beard, with black beetle eyes.</p>
 <hr />  
   <img src=""><p>Sirius Black is an Animangus. He can turn into a black-haired dog, which can be mistaken as a Grim. He has long black hair and very yellow teeth. He is Harry Potter's godfather.</p>
 <hr />  
