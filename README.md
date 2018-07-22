@@ -65,17 +65,15 @@
 <hr />  
   <img src="https://3.bp.blogspot.com/-y1Aai89B5_o/VwXWSVawzSI/AAAAAAAAA9Q/iaNd09WxYrY5u4Q_yLGvtSEwPziy_6qpQ/s1600/Sirius%2BBlack.png"><p>Sirius Black is an Animangus. He can turn into a black-haired dog, which can be mistaken as a Grim. He has long black hair and very yellow teeth. He is Harry Potter's godfather.</p>
 <hr />  
-  <img src=""><p>Marjorie (Marge) Dudley is Vernon's sister. She resembles Vernon a lot. She is large, beefy, and purple faced. She even has a mustache. She owns an old and evil-tempered bulldog, who likes to chase Harry up trees.</p>
+  <img src="http://images4.fanpop.com/image/polls/529000/529580_1283256252232_full.jpg"><p>Marjorie (Marge) Dudley is Vernon's sister. She resembles Vernon a lot. She is large, beefy, and purple faced. She even has a mustache. She owns an old and evil-tempered bulldog, who likes to chase Harry up trees.</p>
 <hr />  
-  <img src=""><p>Arabella Doreen Figg is Harry's neighbor. She is a Squib. She usually babysits Harry on Dudley's birthdays.</p>
+  <img src="https://vignette.wikia.nocookie.net/albus-potter-fanon-series/images/8/82/Figg.jpg/revision/latest?cb=20160728194724"><p>Arabella Doreen Figg is Harry's neighbor. She is a Squib. She usually babysits Harry on Dudley's birthdays.</p>
 <hr />  
-  <img src=""><p>Yvonne is Petunia's friend.</p>
+  <img src="https://www.aisd.net/crow-elementary/wp-content/files/sites/58/2017/08/blank-profile-female.png"><p>Yvonne is Petunia's friend.</p>
 <hr />  
-  <img src=""><p>Piers Polkiss was a scrawny boy with a face like a rat. He is Dudley's friend.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/7/70/Dudleygang.png/revision/latest?cb=20121108112843"><p>Piers Polkiss (from left to right behind Dudley: he's #3) was a scrawny boy with a face like a rat. He is Dudley's friend. Dennis (#1), Malcolm (#4), and Gordon (#2) are all big and stupid. They are also Dudley's friends.</p>
 <hr />  
-  <img src=""><p>Dennis, Malcolm, and Gordon are all big and stupid. They are also Dudley's friends.</p>
-<hr />  
-  <img src=""><p>Cornelius Oswald Fudge was one of the Ministers of Magic. He has rumpled gray hair and an anxious expression, and wear a strange mixture of clothes: a pinstriped suit, a scarlet tie, a long black coat, and pointed purple boots.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/5/52/Cornelius_fudge_hppoa.jpg/revision/latest?cb=20091022011436"><p>Cornelius Oswald Fudge was one of the Ministers of Magic. He has rumpled gray hair and an anxious expression, and wear a strange mixture of clothes: a pinstriped suit, a scarlet tie, a long black coat, and pointed purple boots.</p>
 <hr />  
   <img src=""><p>Tom is the bartender at the Leaky Cauldron. He is quite bald and looks like a toothless walnut.</p>
 <hr />
