@@ -77,5 +77,65 @@
 <hr />  
   <img src="https://hips.hearstapps.com/sev.h-cdn.co/assets/17/06/980x490/landscape-1486411091-harry-potter-tom-leaky-cauldron.jpg?resize=7680:*"><p>Tom is the bartender at the Leaky Cauldron. He is quite bald and looks like a toothless walnut. The producers of the Harry Potter movies switched the actors for this character, so there are two different ones.</p>
 <hr />
+  <img src="https://vignette.wikia.nocookie.net/es.harrypotter/images/d/d8/Doris_Crockford.PNG/revision/latest?cb=20130327182225"><p>Doris Crockford is one of the ones who met Harry Potter in the Leaky Cauldron in the very first book.</p>
+<hr />
+  <img src="https://vignette.wikia.nocookie.net/villains/images/c/ce/Quarrel_in_HP.png/revision/latest/scale-to-width-down/566?cb=20160210162347"><p>Professor Quirrell was the Defense Against the Dark Arts teacher in Book 1 of the Harry Potter Series. He was a pale young man, who is frightened of almost everything, including his job.</p>
+<hr />
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/5/53/Griphook_TDH_SF.png/revision/latest?cb=20161215062124" width="638" height="880"><p>Griphook is a goblin who works at Gringotts Bank.</p>
+<hr />
+  <img src=""><p>Madam Malkin runs a shop called Madam Malkin's Robes for All Occasions. She was a squat, smiling witch dressed in all muave.</p>
+<hr />
+  <img src=""><p>Professor Vindictus Viridian is the author of <i>Curses and Countercurses (Bewitch Your Friends and Befuddle Your Enemies with the Lastest Revenges: Hair Loss, Jelly-Legs, Tongue-Tying, and Much, Much More)</i>.</p>
+<hr />
+  <img src=""><p>Ollivander is the owner of his very own wand shop. He is an old man, with wide, pale eyes.</p>
+<hr />
+  <img src=""><p>Ginny Weasley is the youngest member of the Weasley family. She is a small, red-haired girl.</p>
+<hr />
+  <img src=""><p>Fred Weasley is George Weasley's twin. So, of course, both of them have red hair. Fred and George Weasley are somewhat the "class clowns" at Hogwarts.</p>
+<hr />
+  <img src=""><p>Molly Weasley is a plump woman and the mother of 7 children. She is also the wife of Arthur Weasley.</p>
+<hr />
+  <img src=""><p>Percy Ignatius Weasley is the third oldest brother in the Weasley family. He turns out to be a snobby git.</p>
+<hr />
+  <img src=""><p>Bill Weasley is the oldest brother in the Weasley family. He works at Gringotts Bank.</p>
+<hr />
+  <img src=""><p>Charlie Weasley is the second oldest brother in the Weasley family. He works in Romania with dragons.</p>
+<hr />
+  <img src=""><p>Agrippa is a wizard on a Chocolate Frog Card.</p>
+<hr />
+  <img src=""><p>Ptolemy is a wizard on a Chocolate Frog Card.</p>
+<hr />
+  <img src=""><p>Morgana is a wizard on a Chocolate Frog Card.</p>
+<hr />
+  <img src=""><p>Hengist of Woodcroft is a wizard on a Chocolate Frog Card.</p>
+<hr />
+  <img src=""><p>Alberic Grunnion is a wizard on a Chocolate Frog Card.</p>
+<hr />
+  <img src=""><p>Circe is a wizard on a Chocolate Frog Card.</p>
+<hr />
+  <img src=""><p>Paracelsus is a wizard on a Chocolate Frog Card.</p>
+<hr />
+  <img src=""><p>Merlin is a wizard on a Chocolate Frog Card.</p>
+<hr />
+  <img src=""><p>Cliodna is a wizard on a Chocolate Frog Card.</p>
+<hr />
+  <img src=""><p></p>
+<hr />
+  <img src=""><p></p>
+<hr />
+  <img src=""><p></p>
+<hr />
+  <img src=""><p></p>
+<hr />
+  <img src=""><p></p>
+<hr />
+  <img src=""><p></p>
+<hr />
+  <img src=""><p></p>
+<hr />
+  <img src=""><p></p>
+<hr />
+  <img src=""><p></p>
+<hr />
 </body>
 </html>
