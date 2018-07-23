@@ -81,43 +81,43 @@
 <hr />
   <img src="https://vignette.wikia.nocookie.net/villains/images/c/ce/Quarrel_in_HP.png/revision/latest/scale-to-width-down/566?cb=20160210162347"><p>Professor Quirrell was the Defense Against the Dark Arts teacher in Book 1 of the Harry Potter Series. He was a pale young man, who is frightened of almost everything, including his job.</p>
 <hr />
-  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/5/53/Griphook_TDH_SF.png/revision/latest?cb=20161215062124" width="638" height="880"><p>Griphook is a goblin who works at Gringotts Bank.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/5/53/Griphook_TDH_SF.png/revision/latest?cb=20161215062124"><p>Griphook is a goblin who works at Gringotts Bank.</p>
 <hr />
-  <img src=""><p>Madam Malkin runs a shop called Madam Malkin's Robes for All Occasions. She was a squat, smiling witch dressed in all muave.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/0/0b/MadamMalkin.jpg/revision/latest?cb=20110923214536"><p>Madam Malkin runs a shop called Madam Malkin's Robes for All Occasions. She was a squat, smiling witch dressed in all muave.</p>
 <hr />
-  <img src=""><p>Professor Vindictus Viridian is the author of <i>Curses and Countercurses (Bewitch Your Friends and Befuddle Your Enemies with the Lastest Revenges: Hair Loss, Jelly-Legs, Tongue-Tying, and Much, Much More)</i>.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/e/ec/VindictusProfile.jpg/revision/latest?cb=20110915224702"><p>Professor Vindictus Viridian is the author of <i>Curses and Countercurses (Bewitch Your Friends and Befuddle Your Enemies with the Lastest Revenges: Hair Loss, Jelly-Legs, Tongue-Tying, and Much, Much More)</i>.</p>
 <hr />
-  <img src=""><p>Ollivander is the owner of his very own wand shop. He is an old man, with wide, pale eyes.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/6/68/GarrickOllivander.png/revision/latest?cb=20180127182338"><p>Ollivander is the owner of his very own wand shop. He is an old man, with wide, pale eyes.</p>
 <hr />
-  <img src=""><p>Ginny Weasley is the youngest member of the Weasley family. She is a small, red-haired girl.</p>
+  <img src="https://i.pinimg.com/originals/e8/99/44/e8994469bff1c1f1fdd798dffb9792c9.png"><p>Ginny Weasley is the youngest member of the Weasley family. She is a small, red-haired girl.</p>
 <hr />
-  <img src=""><p>Fred Weasley is George Weasley's twin. So, of course, both of them have red hair. Fred and George Weasley are somewhat the "class clowns" at Hogwarts.</p>
+  <img src="https://www.testedich.de/quiz29/picture/pic_1310391882_1.jpg?1452628673"><p>Fred Weasley is George Weasley's twin. So, of course, both of them have red hair. Fred and George Weasley are somewhat the "class clowns" at Hogwarts.</p>
 <hr />
-  <img src=""><p>Molly Weasley is a plump woman and the mother of 7 children. She is also the wife of Arthur Weasley.</p>
+  <img src="https://vignette.wikia.nocookie.net/vsbattles/images/4/4f/Molly_Weasley7.png/revision/latest/scale-to-width-down/300?cb=20151024073619"><p>Molly Weasley is a plump woman and the mother of 7 children. She is also the wife of Arthur Weasley.</p>
 <hr />
-  <img src=""><p>Percy Ignatius Weasley is the third oldest brother in the Weasley family. He turns out to be a snobby git.</p>
+  <img src="https://moly.hu/system/node_items/218/image_normal.jpg?1343597974"><p>Percy Ignatius Weasley is the third oldest brother in the Weasley family. He turns out to be a snobby git.</p>
 <hr />
-  <img src=""><p>Bill Weasley is the oldest brother in the Weasley family. He works at Gringotts Bank.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotterfanon/images/4/45/Bill_Weasley_III.png/revision/latest?cb=20160223011019"><p>Bill Weasley is the oldest brother in the Weasley family. He works at Gringotts Bank.</p>
 <hr />
-  <img src=""><p>Charlie Weasley is the second oldest brother in the Weasley family. He works in Romania with dragons.</p>
+  <img src="https://pbs.twimg.com/profile_images/514706379232141313/I9tp0ZPO.jpeg"><p>Charlie Weasley is the second oldest brother in the Weasley family. He works in Romania with dragons.</p>
 <hr />
-  <img src=""><p>Agrippa is a wizard on a Chocolate Frog Card.</p>
+  <img src="https://vignette.wikia.nocookie.net/harry-potter/images/b/be/002Agrippa.gif/revision/latest?cb=20100324144539"><p>Agrippa is a wizard on a Chocolate Frog Card.</p>
 <hr />
-  <img src=""><p>Ptolemy is a wizard on a Chocolate Frog Card.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/6/67/PtolemyPottermore.png/revision/latest/scale-to-width-down/125?cb=20160623194239"><p>Ptolemy is a wizard on a Chocolate Frog Card.</p>
 <hr />
-  <img src=""><p>Morgana is a wizard on a Chocolate Frog Card.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/2/25/Morgan_le_Fay-Card.jpg/revision/latest?cb=20120618222928"><p>Morgana is a wizard on a Chocolate Frog Card.</p>
 <hr />
-  <img src=""><p>Hengist of Woodcroft is a wizard on a Chocolate Frog Card.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/d/d2/Hengist_Of_Woodcroft-96-chocFrogCard.png/revision/latest/scale-to-width-down/125?cb=20160606202313"><p>Hengist of Woodcroft is a wizard on a Chocolate Frog Card.</p>
 <hr />
-  <img src=""><p>Alberic Grunnion is a wizard on a Chocolate Frog Card.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/3/30/Alberic_Grunnion-97-chocFrogCard.png/revision/latest/scale-to-width-down/125?cb=20160606202125"><p>Alberic Grunnion is a wizard on a Chocolate Frog Card.</p>
 <hr />
-  <img src=""><p>Circe is a wizard on a Chocolate Frog Card.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/7/79/Circe-22-chocFrogCard.png/revision/latest/scale-to-width-down/125?cb=20160606202157"><p>Circe is a wizard on a Chocolate Frog Card.</p>
 <hr />
-  <img src=""><p>Paracelsus is a wizard on a Chocolate Frog Card.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/9/9a/Paracelsus-15-chocFrogCard.png/revision/latest/scale-to-width-down/125?cb=20160606202405"><p>Paracelsus is a wizard on a Chocolate Frog Card.</p>
 <hr />
-  <img src=""><p>Merlin is a wizard on a Chocolate Frog Card.</p>
+  <img src="https://vignette.wikia.nocookie.net/harrypotter/images/6/68/Merlin-01-chocFrogCard.png/revision/latest/scale-to-width-down/125?cb=20160606202336"><p>Merlin is a wizard on a Chocolate Frog Card.</p>
 <hr />
-  <img src=""><p>Cliodna is a wizard on a Chocolate Frog Card.</p>
+  <img src="https://www.hp-lexicon.org/wp-content/uploads/2016/01/016Cliodne-200x0-c-default.gif"><p>Cliodna is a wizard on a Chocolate Frog Card.</p>
 <hr />
   <img src=""><p></p>
 <hr />
